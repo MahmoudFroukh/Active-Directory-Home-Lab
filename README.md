@@ -19,6 +19,7 @@ and Splunk Forwarder for centralized log analysis.
 - The Windows 10 machine as the target machine
 - Kali Linux as the attacker machine
 - Splunk as the SIEM of choice to view the event logs
+- Splunk Forwarder used to gather logs
 
 ## Steps
 
