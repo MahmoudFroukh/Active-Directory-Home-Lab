@@ -16,7 +16,9 @@ and Splunk Forwarder for centralized log analysis.
 ### Tools Used
 
 - VirtualBox acting as the hypervisor for my virtual machines
-- 
+- The Windows 10 machine as the target machine
+- Kali Linux as the attacker machine
+- Splunk as the SIEM of choice to view the event logs
 
 ## Steps
 
