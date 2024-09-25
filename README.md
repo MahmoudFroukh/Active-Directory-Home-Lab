@@ -21,3 +21,4 @@ and Splunk Forwarder for centralized log analysis.
 ## Steps
 
 ![Lab Environment - Active Directory drawio](https://github.com/user-attachments/assets/844ce3f1-be47-430b-8e59-3bb11b219fba)
+Ref 1 - Network Diagram
