@@ -29,3 +29,7 @@ Ref 1 - Network Diagram
 Ref 2 - All the virtual machines that were used in this lab
 ![Screenshot 2024-10-05 184930](https://github.com/user-attachments/assets/c0ca1b71-cd1f-4af9-9f67-9cc3823d9942)
 
+Ref 3 - Kali being used as the attacking machine
+![Screenshot 2024-10-06 232121](https://github.com/user-attachments/assets/dd014432-7fe4-4b68-888d-d6c348201145)
+
+
