@@ -35,7 +35,7 @@ Ref 3 - Kali being used as the attacking machine
 Ref 4 - Splunk Machine
 ![Splunk Machine](https://github.com/user-attachments/assets/3bbdeec6-d531-4b52-96a6-b3d7b2c9d2b7)
 
-Ref 5 - Windows Server
+Ref 5 - Windows Server 2022
 ![Windows Server Machine](https://github.com/user-attachments/assets/a0b5ccaf-e423-4296-aa16-892e3c251cc1)
 
 Ref 6 - Windows 10 Machine
