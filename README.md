@@ -32,9 +32,15 @@ Ref 2 - All the virtual machines that were used in this lab
 Ref 3 - Kali being used as the attacking machine
 ![Screenshot 2024-10-06 232121](https://github.com/user-attachments/assets/dd014432-7fe4-4b68-888d-d6c348201145)
 
-Ref 4 - Splunk machine
+Ref 4 - Splunk Machine
 ![Splunk Machine](https://github.com/user-attachments/assets/3bbdeec6-d531-4b52-96a6-b3d7b2c9d2b7)
 
 Ref 5 - Windows Server
 ![Windows Server Machine](https://github.com/user-attachments/assets/a0b5ccaf-e423-4296-aa16-892e3c251cc1)
+
+Ref 6 - Windows 10 Machine
+![Windows 10 Machine](https://github.com/user-attachments/assets/53480f2c-a15d-4dbd-ba45-5db7043f42ab)
+
+
+
 
